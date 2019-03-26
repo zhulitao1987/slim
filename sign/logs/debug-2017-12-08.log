@@ -1,0 +1,712 @@
+2017-12-08 18:04:37 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:04:38 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/sign/selfFileSign
+【请求参数】：{"signType":"Key","signPos":{"posType":1,"posPage":"","posX":150,"posY":0,"key":"深圳元立方金融服务有限公司（盖章）","width":0,"qrcodeSign":false},"file":{"srcPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yyy/YYY_1672_15916.pdf","dstPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yyy/YYY_1672_15916.pdf","fileName":"","ownerPassword":""},"sealId":"0"}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"dstFilePath":"","errCode":0,"errShow":false,"filePath":"","msg":"成功","signServiceId":"939073232844132359"}
+
+2017-12-08 18:07:02 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:07:02 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:07:02 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:07:02 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/account/add
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","account":{"email":"","mobile":"15067191420","person":{"name":"朱礼涛","idNo":"421126198702080813","organ":"","title":"","address":"","personArea":0}}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:b4b7e73843310228ebe13c0abf4e42a3ab745f42acfb52d16000063daf35d637","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:07:05 GMT
+Content-Type: application/json
+Content-Length: 108
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: 7ac627c31003cebae13f36923b1452fc9fd13b037c75d99069f0e029af1293a1
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"accountId":"737EAF6FE0AD4BED98C42F3B19E8C895","fingerprint":null}
+
+2017-12-08 18:07:02 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:07:03 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/seal/addTemplateSeal
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","accountId":"737EAF6FE0AD4BED98C42F3B19E8C895","templateType":"borderless","color":"red","hText":"","qText":""}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:44b8e1a4614638939ba55bda9550617ea50039e0f3420abf1805d6c5e254afb2","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:07:06 GMT
+Content-Type: application/json
+Content-Length: 3343
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: aa9bf46c5c5ae51cfa93b32b482aad568fc84c7967851a9f3a55b7d682cddd66
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"imageBase64":"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"}
+
+2017-12-08 18:07:03 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:07:03 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/account/add
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","account":{"email":"","mobile":"18552722466","organize":{"name":"邯郸市蓝港建筑工程有限公司","organCode":"91130400MA07PXBJ5L","organType":"0","legalName":"","userType":"0","legalArea":"0","agentName":"","agentIdNo":"","legalIdNo":"","licenseType":"1","address":"","scope":""}}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:827a43c9fb7ecbed4c0a7fed149f9181f36e239f9d9201f55cf127c14d250467","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:07:06 GMT
+Content-Type: application/json
+Content-Length: 108
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: fb5ebaac99e8454154335a9545e0e9d6006bf3bd49a6bf6af0abf572ff8ca4cc
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"accountId":"5CF263F0FB614A849ACC8CB0D66AF312","fingerprint":null}
+
+2017-12-08 18:07:03 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:07:03 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/seal/addTemplateSeal
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","accountId":"5CF263F0FB614A849ACC8CB0D66AF312","templateType":"star","color":"red","hText":"","qText":""}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:16a14585037e9abdf639e2c5c162ca64e65bec4584813ec05742896aa6209bda","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:07:06 GMT
+Content-Type: application/json
+Content-Length: 4115
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: 4096c27793dbb29ec364661803d5c1449eb64d37981ec6bc9f307a5dcb223ff7
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"imageBase64":"iVBORw0KGgoAAAANSUhEUgAAAOIAAADiCAMAAABkzuvlAAAADFBMVEX/////AAAAAP8AAABvxgj3AAAAAXRSTlMAQObYZgAAC4RJREFUeNrdXduCpCoMpGz//5frnJ3RFhBIgkF0+mF3Z0chRe4B0gh3fZD+yFkTzxifb4VoHpjvgtg5Kl8C8dqIfDxEj+H4YIiOY/GJZMFINW5DicGjcPDLN0GEB30YBhJjRuDckVwhwpcoDAAJ57eHLDqnQcR9RpBTIGKsx/ZLTDCdAu0cvBli3+zg9jLvXEfcubwbNhgWxQHkeqOMdiwn05fQAxI3KuFOoJHQqyq5XJNRmhcN5rVNJwEGQ4QEUCbCjjEHOVRQoZGYmhxec6TofvPTOQ2Fp1CE/uM19r/7mYFRggpo1xFVMhpSCoO0YgxEiEoYwUf7ARYxSpYkmtZidBZXId1n/ieIqLqMGgDyQClmyHCHqBXS/4n8UTT2eXpuvIRc6oAzRL2h4fFAJTChBLMlsR0YVz8h3cKt7QmWfYQmMGDrqeiXyihpcWNhxL5N3Nh4iE02kQxujFz81JAJQ1kkHQFVv2mIzU0Y4Ybw695/hZS5HGnid22aZaJp1Y9GpWFiQRF3LWLY/5A51OIj8jT7gqBaEdaDENfaB6mXw6ULoSK4QEccakkk9RiXTh7KCRM9GYcLGFfrmu26AEoOUqpSWUzfrnwsK2Q/F1GR0s1iVKMQbrbFcb+fhd9Tx8bFjHDzcDVmRLBRmxtdksp6HQedEFFfW4Sv+a9zAuFKGaowIYnGXB0Q6wi5k89igPajiGimlbA7xXIWqsG4dPBw00SWQjHuHoP1qW28xdeboBrcNzFaK3BArImoOMmGZ4ZZThEvN4HKo7BCrJsaIDY5da585bVqjFTcJXfu/bKS2ZLKIrEYxfSXd8CeGgLnoxhfr/jvlywFBOwwqCg6DoWoLlZFJPf/3kwOKy/nBufgfhEh2u6CqBpqCeNiNTW/osKvlJY3dHEYnFBGrLVC+FbsWHNFAsalwzPzkFKyYG2KaKioPjYzSNadbRvj0hVPRavKk0nl8WbJMEjVq4LHOGrP6NDjxSqmJ0fMrbSILDTIwTCFhdgJtROWrZqDlu402LjaeYiDjT9JIZXbbRUTXU9MkC4PwWpC+aWhEDgvVYqaNTJElv+sejEbEzYlJPL3vU2dzzVI5PpL9OQoheWD/FIE4N+8PGkIspInpaz+m0gkQTzSQhdUSChC1CDcoZVI28SlWCODuGyxaBBfdPFclyHqEH43CXFwM2UBA+wxNxJ+I8/LQJXO5099+rPV2KL//HCoHa6dA0K2s/XDUrHepQzgtExMVS3n3JXq4R4kIhVaBUWsQF207Goi3SK6r7fzqZWGr89nuFDOWxRMZAVkZOoY+jcVGyVVxDGEWOessPGjEWc0+IsLBw0khHtCpiZKjlELTNx20aQUAd4IZdJJZQFBtfkGweLwQpDcdh6/yggBCpqiugiaSApBiZTodCI8xILt3Vb5oAdkj4HIurG23qUw7goPj5pb81HmxaOSrikjINZCTETewvcaEMWtqgaeJkTm0HCUFNnQG7hf5yLapyearoQFXUQj70VcXKqYU/fj4TWLiSMBN+6aF8NmJOl6OdzHsBukKReLqTUoshcaxjOku4aslR/8MVZNA2oYT0AWfUUqVA6ocdx958LQgDBjPV+spHdgfKSJo0WzZHSK5YYQsTEjJ2fjogguuZnTWFCBmyBSI7hssXFpcxlRjJMlhNBEFr4MTWSUxy6ZzqK2yxD7vv3mqY6Sxo0ii1xEqx45k9RFkyL8S5jIWP6xMXZeGwkg1I4MlhFLtaQvz2JX7x60SSz8Hkxm21GhxEVdkYEn+3MPwl0JaXPFCfu05WEeGUXqgIeLaOzoZYDIcjyFnMbW+SsluEdMk2lA1bTdEI94+3ZzWmSpMsv62Eou/1i4nZlACJiCkNqViP9tq83jbnNqUMKSpC722W42p/oAvIK0A+IeznUi7LzaC5N1ix9cuyZlq/I4AKFJkUI9DKdxupttTXdaWj/mNyyJQBc+dnEcvxDRRwfvllOdQTp/1grJtmMY0z8tt1c9lLJdhkX1nOLD0NX96Sq+7+rjUUphPdAxR3uI4Sp7B31oOIV3yR4WLYKaBTPPwdliXdDqYhxHgNlYcGg9A/qgC1n5DcUEdj0ZI0RKWCjeYUJ+keJjcvOaqd2gjouMU5DCW3MwMgaG9Fxj8/AlxDJ4Lhj0tBFX+ZnRCBZc5SpYmn259kV7glXdt4aV7SIkv8hzAYTPwFioz9gg5vqWnY3y69Z3Tdjl+4CgqTET3QIU8LISFve1S6Zi1YRv6TGV35h+griejSjPW8BGXWRSUKY+Cken0FIRZ50LVXFTDhqchhBVDFE70+kESpTtwKAuMKKLkAGlGZzS2eY5QH76m085gzQhDIqjMDsBHwy2Ds4A0yOAqrNVyzCEJt/Zg1BbkxsI0VAW5Cjpj4tWnCisPU0PDZOP5GLQ3hQYJP3hFogKYeU4Db8HohixjA8Ex0MM9JU782e1qS77MGIGwp1kY5O0zroGMY2HKi4m12Qnp/xZOq5a8VWIILJ4ojPphy/M+KifIn84K5mqUwddIHa1p0Leck7QxVK+eDqEfbkTmCvEcz5Ms7mJmtCiJx8eK6f7SQMWfrCZG5xLCs/5pCDRtjurKsP/uaA4AGN/kSsGydAEuTa9RHTqmLYugXWB8FopRjtLLG0zNSCCRZuTkNu9/JelgVnQ9L2Gi8y+tvY0eBZV5JaHFwiM4zn0n/tgSI0r612uz7fB4nMMeWPlSw2/2fgvo8CzuEbKnSmk96hidl4sgdNNIVlZIp0uomhWPer7LCUfloGrJ4rboQnqV4licOgHivrMDtlG/Yt+hC3Uitu45MeUCVYXPnZkGqc8ln5Cmhl9XkQovv8pXqJPGum4ZniuwSsU91HaJza80l92lDwul4UOVf+Mjq+lxHzUsddj2GVUxvM1UuxmhNPnYwd376XF685k7XoVfEKtSqmsi828QQh5n/hZLU74uEV405Uwq+0qsstyoSjZgp51nNF+oWjVlxkQJY+caEf6irgaNiJlIcK8Y6m2y32WnalvLZwhYKbB0Xotnp0GKAhIq7vPfXIKmwytusQGcUJ699XFJC/fSzb6DGVVT5EBvNn7p6mBUAK3dRD7jdaYspAcGUCX0LFoSIR4hSUughXnUlDCW/UR3+okkp4Mlm8oKriNtMPwTIBxf41YLysaiRYXaxqQW5m7LWrS3z4CBs1RCVRkPLbQcfNhcJLLKC4wKEVvIWo7iXZqeLASs7IoxAxJT6ijVRBalUIySQnzQg/E74w7lxPaHcQw18oIEWpZJesdxEo8R3aDv6N5wAAfafXHCE02HmVjTudgbndQbHd3hiG0nTx183tK6YkxaW2IqyoLftZF2zxCbSMU+qPiIVamGe8wtCEqopust9VDOFm5PdpgbPsBhll3T0W7I9gaXb7Y+M6d6SqpSTUg8RmPrnmj6B5oSokfXtXXnFyDrK6v+VSIX17Ess7PomLum5lYbeSLP8/FP8TEM8S/x8blzzOxxKxXOo4G0ZpvtH0RQu3vbHe/H4WQSl3kG/n4x81NW+zQ8c67EIpfu8TXIwwIb8coUorwcowynYuYCb/erL7doiqEDZfefgNCXeTDNyNsa9rTMeroQ3gvRiV1i3G0l2QXhuecuiiORXixndljMeoJQ3gnRgNZpqZ0fKAa0kNnn4fRRhHC+zAa6UF4HUYrNXDX7gcZmm7/yTex0BK2PANjDxUIb8LYRQPCizD2UYC+GQLfAtCaQkwE6d8VSvM45wC0zovwAoyVxjSDIF6cziH1ZRgN8XaQl6fDhGW9eT0xRXZunQczJ79nDswmYPz48CPCE6Xn0HClxAel86gI3q/zWQM6lLlLA7gaBobZEN0IG9brF0OUxyun40DqfMeh71uTICqHounBx0H0G41PJMpvQP9QcMTeKB6EL4zb/sVD8IWhO9x4ALzBEBWTcOrsA6e7uTz5HzvIl2Kmzr6LAAAAAElFTkSuQmCC"}
+
+2017-12-08 18:07:05 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:07:05 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/sign/userFileSign
+【请求参数】：{"signType":"Key","signPos":{"posType":1,"posPage":1,"posX":120,"posY":0,"key":"朱礼涛（盖章）","width":0,"qrcodeSign":false},"file":{"srcPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yyy/YYY_1672_15916.pdf","dstPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yyy/YYY_1672_15916.pdf","fileName":"","ownerPassword":""},"accountId":"737EAF6FE0AD4BED98C42F3B19E8C895","sealData":"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"}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"dstFilePath":"","errCode":0,"errShow":false,"filePath":"","msg":"成功","signServiceId":"939073852896481283"}
+
+2017-12-08 18:07:05 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:07:06 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/sign/userFileSign
+【请求参数】：{"signType":"Key","signPos":{"posType":1,"posPage":1,"posX":150,"posY":0,"key":"邯郸市蓝港建筑工程有限公司（盖章）","width":0,"qrcodeSign":false},"file":{"srcPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yyy/YYY_1672_15916.pdf","dstPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yyy/YYY_1672_15916.pdf","fileName":"","ownerPassword":""},"accountId":"5CF263F0FB614A849ACC8CB0D66AF312","sealData":"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"}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"dstFilePath":"","errCode":0,"errShow":false,"filePath":"","msg":"成功","signServiceId":"939073855006248967"}
+
+2017-12-08 18:07:06 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:07:06 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/sign/selfFileSign
+【请求参数】：{"signType":"Key","signPos":{"posType":1,"posPage":"","posX":150,"posY":0,"key":"深圳元立方金融服务有限公司（盖章）","width":0,"qrcodeSign":false},"file":{"srcPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yyy/YYY_1672_15916.pdf","dstPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yyy/YYY_1672_15916.pdf","fileName":"","ownerPassword":""},"sealId":"0"}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"dstFilePath":"","errCode":0,"errShow":false,"filePath":"","msg":"成功","signServiceId":"939073857371836424"}
+
+2017-12-08 18:09:37 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:09:37 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:09:37 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:09:37 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/account/add
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","account":{"email":"","mobile":"15067191420","person":{"name":"朱礼涛","idNo":"421126198702080813","organ":"","title":"","address":"","personArea":0}}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:b4b7e73843310228ebe13c0abf4e42a3ab745f42acfb52d16000063daf35d637","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:09:40 GMT
+Content-Type: application/json
+Content-Length: 108
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: 7ac627c31003cebae13f36923b1452fc9fd13b037c75d99069f0e029af1293a1
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"accountId":"737EAF6FE0AD4BED98C42F3B19E8C895","fingerprint":null}
+
+2017-12-08 18:09:37 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:09:37 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/seal/addTemplateSeal
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","accountId":"737EAF6FE0AD4BED98C42F3B19E8C895","templateType":"borderless","color":"red","hText":"","qText":""}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:44b8e1a4614638939ba55bda9550617ea50039e0f3420abf1805d6c5e254afb2","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:09:40 GMT
+Content-Type: application/json
+Content-Length: 3343
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: aa9bf46c5c5ae51cfa93b32b482aad568fc84c7967851a9f3a55b7d682cddd66
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"imageBase64":"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"}
+
+2017-12-08 18:09:37 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:09:37 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/account/add
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","account":{"email":"","mobile":"18552722466","organize":{"name":"邯郸市蓝港建筑工程有限公司","organCode":"91130400MA07PXBJ5L","organType":"0","legalName":"","userType":"0","legalArea":"0","agentName":"","agentIdNo":"","legalIdNo":"","licenseType":"1","address":"","scope":""}}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:827a43c9fb7ecbed4c0a7fed149f9181f36e239f9d9201f55cf127c14d250467","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:09:40 GMT
+Content-Type: application/json
+Content-Length: 108
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: fb5ebaac99e8454154335a9545e0e9d6006bf3bd49a6bf6af0abf572ff8ca4cc
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"accountId":"5CF263F0FB614A849ACC8CB0D66AF312","fingerprint":null}
+
+2017-12-08 18:09:38 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:09:38 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/seal/addTemplateSeal
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","accountId":"5CF263F0FB614A849ACC8CB0D66AF312","templateType":"star","color":"red","hText":"","qText":""}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:16a14585037e9abdf639e2c5c162ca64e65bec4584813ec05742896aa6209bda","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:09:41 GMT
+Content-Type: application/json
+Content-Length: 4115
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: 4096c27793dbb29ec364661803d5c1449eb64d37981ec6bc9f307a5dcb223ff7
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"imageBase64":"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"}
+
+2017-12-08 18:09:39 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:09:40 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/sign/userFileSign
+【请求参数】：{"signType":"Key","signPos":{"posType":1,"posPage":1,"posX":120,"posY":0,"key":"朱礼涛（盖章）","width":0,"qrcodeSign":false},"file":{"srcPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yzy/YZY_29763_15916.pdf","dstPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yzy/YZY_29763_15916.pdf","fileName":"","ownerPassword":""},"accountId":"737EAF6FE0AD4BED98C42F3B19E8C895","sealData":"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"}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"dstFilePath":"","errCode":0,"errShow":false,"filePath":"","msg":"成功","signServiceId":"939074500694151173"}
+
+2017-12-08 18:09:40 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:09:41 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/sign/userFileSign
+【请求参数】：{"signType":"Key","signPos":{"posType":1,"posPage":1,"posX":150,"posY":0,"key":"邯郸市蓝港建筑工程有限公司（盖章）","width":0,"qrcodeSign":false},"file":{"srcPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yzy/YZY_29763_15916.pdf","dstPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yzy/YZY_29763_15916.pdf","fileName":"","ownerPassword":""},"accountId":"5CF263F0FB614A849ACC8CB0D66AF312","sealData":"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"}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"dstFilePath":"","errCode":0,"errShow":false,"filePath":"","msg":"成功","signServiceId":"939074503177211910"}
+
+2017-12-08 18:09:41 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:09:41 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/sign/selfFileSign
+【请求参数】：{"signType":"Key","signPos":{"posType":1,"posPage":"","posX":150,"posY":0,"key":"深圳元立方金融服务有限公司（盖章）","width":0,"qrcodeSign":false},"file":{"srcPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yzy/YZY_29763_15916.pdf","dstPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yzy/YZY_29763_15916.pdf","fileName":"","ownerPassword":""},"sealId":"0"}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"dstFilePath":"","errCode":0,"errShow":false,"filePath":"","msg":"成功","signServiceId":"939074506465546247"}
+
+2017-12-08 18:13:42 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:13:43 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:13:43 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:13:43 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/account/add
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","account":{"email":"","mobile":"15067191420","person":{"name":"朱礼涛","idNo":"421126198702080813","organ":"","title":"","address":"","personArea":0}}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:b4b7e73843310228ebe13c0abf4e42a3ab745f42acfb52d16000063daf35d637","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:13:46 GMT
+Content-Type: application/json
+Content-Length: 108
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: 7ac627c31003cebae13f36923b1452fc9fd13b037c75d99069f0e029af1293a1
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"accountId":"737EAF6FE0AD4BED98C42F3B19E8C895","fingerprint":null}
+
+2017-12-08 18:13:43 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:13:43 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/seal/addTemplateSeal
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","accountId":"737EAF6FE0AD4BED98C42F3B19E8C895","templateType":"borderless","color":"red","hText":"","qText":""}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:44b8e1a4614638939ba55bda9550617ea50039e0f3420abf1805d6c5e254afb2","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:13:46 GMT
+Content-Type: application/json
+Content-Length: 3343
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: aa9bf46c5c5ae51cfa93b32b482aad568fc84c7967851a9f3a55b7d682cddd66
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"imageBase64":"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"}
+
+2017-12-08 18:13:43 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:13:44 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/account/add
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","account":{"email":"","mobile":"18552722466","organize":{"name":"邯郸市蓝港建筑工程有限公司","organCode":"91130400MA07PXBJ5L","organType":"0","legalName":"","userType":"0","legalArea":"0","agentName":"","agentIdNo":"","legalIdNo":"","licenseType":"1","address":"","scope":""}}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:827a43c9fb7ecbed4c0a7fed149f9181f36e239f9d9201f55cf127c14d250467","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:13:47 GMT
+Content-Type: application/json
+Content-Length: 108
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: fb5ebaac99e8454154335a9545e0e9d6006bf3bd49a6bf6af0abf572ff8ca4cc
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"accountId":"5CF263F0FB614A849ACC8CB0D66AF312","fingerprint":null}
+
+2017-12-08 18:13:44 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:13:44 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/seal/addTemplateSeal
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","accountId":"5CF263F0FB614A849ACC8CB0D66AF312","templateType":"star","color":"red","hText":"","qText":""}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:16a14585037e9abdf639e2c5c162ca64e65bec4584813ec05742896aa6209bda","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:13:47 GMT
+Content-Type: application/json
+Content-Length: 4115
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: 4096c27793dbb29ec364661803d5c1449eb64d37981ec6bc9f307a5dcb223ff7
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"imageBase64":"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"}
+
+2017-12-08 18:13:45 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:13:46 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/sign/userFileSign
+【请求参数】：{"signType":"Key","signPos":{"posType":1,"posPage":1,"posX":120,"posY":0,"key":"朱礼涛（盖章）","width":0,"qrcodeSign":false},"file":{"srcPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yzy/YZY_29763_15916.pdf","dstPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yzy/YZY_29763_15916.pdf","fileName":"","ownerPassword":""},"accountId":"737EAF6FE0AD4BED98C42F3B19E8C895","sealData":"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"}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"dstFilePath":"","errCode":0,"errShow":false,"filePath":"","msg":"成功","signServiceId":"939075532329357321"}
+
+2017-12-08 18:13:46 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:13:46 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/sign/userFileSign
+【请求参数】：{"signType":"Key","signPos":{"posType":1,"posPage":1,"posX":150,"posY":0,"key":"邯郸市蓝港建筑工程有限公司（盖章）","width":0,"qrcodeSign":false},"file":{"srcPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yzy/YZY_29763_15916.pdf","dstPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yzy/YZY_29763_15916.pdf","fileName":"","ownerPassword":""},"accountId":"5CF263F0FB614A849ACC8CB0D66AF312","sealData":"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"}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"dstFilePath":"","errCode":0,"errShow":false,"filePath":"","msg":"成功","signServiceId":"939075534443319300"}
+
+2017-12-08 18:13:46 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:13:47 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/sign/selfFileSign
+【请求参数】：{"signType":"Key","signPos":{"posType":1,"posPage":"","posX":150,"posY":0,"key":"深圳元立方金融服务有限公司（盖章）","width":0,"qrcodeSign":false},"file":{"srcPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yzy/YZY_29763_15916.pdf","dstPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yzy/YZY_29763_15916.pdf","fileName":"","ownerPassword":""},"sealId":"0"}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"dstFilePath":"","errCode":0,"errShow":false,"filePath":"","msg":"成功","signServiceId":"939075536540471299"}
+
+2017-12-08 18:16:08 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:16:09 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:16:09 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:16:09 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/account/add
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","account":{"email":"","mobile":"15067191420","person":{"name":"朱礼涛","idNo":"421126198702080813","organ":"","title":"","address":"","personArea":0}}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:b4b7e73843310228ebe13c0abf4e42a3ab745f42acfb52d16000063daf35d637","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:16:12 GMT
+Content-Type: application/json
+Content-Length: 108
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: 7ac627c31003cebae13f36923b1452fc9fd13b037c75d99069f0e029af1293a1
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"accountId":"737EAF6FE0AD4BED98C42F3B19E8C895","fingerprint":null}
+
+2017-12-08 18:16:09 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:16:09 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/seal/addTemplateSeal
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","accountId":"737EAF6FE0AD4BED98C42F3B19E8C895","templateType":"borderless","color":"red","hText":"","qText":""}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:44b8e1a4614638939ba55bda9550617ea50039e0f3420abf1805d6c5e254afb2","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:16:12 GMT
+Content-Type: application/json
+Content-Length: 3343
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: aa9bf46c5c5ae51cfa93b32b482aad568fc84c7967851a9f3a55b7d682cddd66
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"imageBase64":"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"}
+
+2017-12-08 18:16:09 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:16:09 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/account/add
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","account":{"email":"","mobile":"18552722466","organize":{"name":"邯郸市蓝港建筑工程有限公司","organCode":"91130400MA07PXBJ5L","organType":"0","legalName":"","userType":"0","legalArea":"0","agentName":"","agentIdNo":"","legalIdNo":"","licenseType":"1","address":"","scope":""}}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:827a43c9fb7ecbed4c0a7fed149f9181f36e239f9d9201f55cf127c14d250467","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:16:12 GMT
+Content-Type: application/json
+Content-Length: 108
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: fb5ebaac99e8454154335a9545e0e9d6006bf3bd49a6bf6af0abf572ff8ca4cc
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"accountId":"5CF263F0FB614A849ACC8CB0D66AF312","fingerprint":null}
+
+2017-12-08 18:16:09 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:16:09 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/seal/addTemplateSeal
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","accountId":"5CF263F0FB614A849ACC8CB0D66AF312","templateType":"star","color":"red","hText":"","qText":""}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:16a14585037e9abdf639e2c5c162ca64e65bec4584813ec05742896aa6209bda","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:16:12 GMT
+Content-Type: application/json
+Content-Length: 4115
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: 4096c27793dbb29ec364661803d5c1449eb64d37981ec6bc9f307a5dcb223ff7
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"imageBase64":"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"}
+
+2017-12-08 18:16:11 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:16:11 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/sign/userFileSign
+【请求参数】：{"signType":"Key","signPos":{"posType":1,"posPage":1,"posX":120,"posY":0,"key":"朱礼涛（盖章）","width":0,"qrcodeSign":false},"file":{"srcPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yzy/YZY_29406_15916.pdf","dstPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yzy/YZY_29406_15916.pdf","fileName":"","ownerPassword":""},"accountId":"737EAF6FE0AD4BED98C42F3B19E8C895","sealData":"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"}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"dstFilePath":"","errCode":0,"errShow":false,"filePath":"","msg":"成功","signServiceId":"939076142755811335"}
+
+2017-12-08 18:16:11 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:16:12 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/sign/userFileSign
+【请求参数】：{"signType":"Key","signPos":{"posType":1,"posPage":1,"posX":150,"posY":0,"key":"邯郸市蓝港建筑工程有限公司（盖章）","width":0,"qrcodeSign":false},"file":{"srcPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yzy/YZY_29406_15916.pdf","dstPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yzy/YZY_29406_15916.pdf","fileName":"","ownerPassword":""},"accountId":"5CF263F0FB614A849ACC8CB0D66AF312","sealData":"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"}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"dstFilePath":"","errCode":0,"errShow":false,"filePath":"","msg":"成功","signServiceId":"939076144597110790"}
+
+2017-12-08 18:16:12 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:16:12 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/sign/selfFileSign
+【请求参数】：{"signType":"Key","signPos":{"posType":1,"posPage":"","posX":150,"posY":0,"key":"深圳元立方金融服务有限公司（盖章）","width":0,"qrcodeSign":false},"file":{"srcPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yzy/YZY_29406_15916.pdf","dstPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yzy/YZY_29406_15916.pdf","fileName":"","ownerPassword":""},"sealId":"0"}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"dstFilePath":"","errCode":0,"errShow":false,"filePath":"","msg":"成功","signServiceId":"939076146790699008"}
+
+2017-12-08 18:16:24 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:16:24 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:16:24 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:16:24 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/account/add
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","account":{"email":"","mobile":"15067191420","person":{"name":"朱礼涛","idNo":"421126198702080813","organ":"","title":"","address":"","personArea":0}}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:b4b7e73843310228ebe13c0abf4e42a3ab745f42acfb52d16000063daf35d637","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:16:27 GMT
+Content-Type: application/json
+Content-Length: 108
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: 7ac627c31003cebae13f36923b1452fc9fd13b037c75d99069f0e029af1293a1
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"accountId":"737EAF6FE0AD4BED98C42F3B19E8C895","fingerprint":null}
+
+2017-12-08 18:16:24 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:16:25 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/seal/addTemplateSeal
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","accountId":"737EAF6FE0AD4BED98C42F3B19E8C895","templateType":"borderless","color":"red","hText":"","qText":""}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:44b8e1a4614638939ba55bda9550617ea50039e0f3420abf1805d6c5e254afb2","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:16:28 GMT
+Content-Type: application/json
+Content-Length: 3343
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: aa9bf46c5c5ae51cfa93b32b482aad568fc84c7967851a9f3a55b7d682cddd66
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"imageBase64":"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"}
+
+2017-12-08 18:16:25 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:16:25 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/account/add
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","account":{"email":"","mobile":"18552722466","organize":{"name":"邯郸市蓝港建筑工程有限公司","organCode":"91130400MA07PXBJ5L","organType":"0","legalName":"","userType":"0","legalArea":"0","agentName":"","agentIdNo":"","legalIdNo":"","licenseType":"1","address":"","scope":""}}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:827a43c9fb7ecbed4c0a7fed149f9181f36e239f9d9201f55cf127c14d250467","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:16:28 GMT
+Content-Type: application/json
+Content-Length: 108
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: fb5ebaac99e8454154335a9545e0e9d6006bf3bd49a6bf6af0abf572ff8ca4cc
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"accountId":"5CF263F0FB614A849ACC8CB0D66AF312","fingerprint":null}
+
+2017-12-08 18:16:25 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:16:25 > 
+【请求地址】：https://smltech.tsign.cn:443/openapi_tech/rest/v3/seal/addTemplateSeal
+【请求参数】：{"equipId":"F4-8E-38-77-78-A7-m8TPkd","accountId":"5CF263F0FB614A849ACC8CB0D66AF312","templateType":"star","color":"red","hText":"","qText":""}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","X-timevale-signature:16a14585037e9abdf639e2c5c162ca64e65bec4584813ec05742896aa6209bda","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : HTTP/1.1 200 OK
+Server: nginx/1.10.2
+Date: Fri, 08 Dec 2017 10:16:28 GMT
+Content-Type: application/json
+Content-Length: 4115
+Connection: keep-alive
+X-timevale-mode: package
+X-timevale-cipher-algorithm: none
+X-timevale-signature: 4096c27793dbb29ec364661803d5c1449eb64d37981ec6bc9f307a5dcb223ff7
+X-timevale-signature-algorithm: hmac-sha256
+
+{"errCode":0,"msg":null,"errorShow":false,"imageBase64":"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"}
+
+2017-12-08 18:16:26 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:16:27 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/sign/userFileSign
+【请求参数】：{"signType":"Key","signPos":{"posType":1,"posPage":1,"posX":120,"posY":0,"key":"朱礼涛（盖章）","width":0,"qrcodeSign":false},"file":{"srcPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yyy/YYY_1803_15916.pdf","dstPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yyy/YYY_1803_15916.pdf","fileName":"","ownerPassword":""},"accountId":"737EAF6FE0AD4BED98C42F3B19E8C895","sealData":"iVBORw0KGgoAAAANSUhEUgAAAX4AAAF+CAMAAACyBIHOAAADAFBMVEX/////AAAAAP8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABLakbNAAAAAXRSTlMAQObYZgAABktJREFUeNrt3e16nDYQBlAP5v5vefqR1t7YuyBgJMA551efNLHEyyAkLYvf3gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAb+LPPfI4P7e/f0r+wYWX58ff/wTEUgtx1vn/FeDexqfbDECx1EKcPP7tHYKmt5vkH2ef/i6tR2nj2fv48tThr/7QpwuUQFkD95t/TW93yT9/Yv7Tfbq6mH+W57/tbprD43/sXx7rReH4E3XNNP2sOKf6Y/xcr6nCc9yp/rMGn6ZQsvZcR1w5/nPKf0yzOaKtqbQQ8yfmH9eN/6ypXsS1Lrbc2cP5cBBDl5oZ46ZYn61t28+Lt/Z/Nb/dK/+z7va5ZyRY/1dz1RU6tvxz8MW2FnnsPGt7449z0h++0o5jN721/Oc3mvOP8jFhvlvxZ5x3za2ORZv7pfq3RJ5RfAM8Nu/P9uukcjY+ZEH69BgzH/87D1+F+6q/8ROe6DMx/Ug/hs3+s9Pg12vwie4Lg7M+Wik9mrmm+GMpluKHQLLnlbVv9n+R6o9hK+MYueReyz+fdC67xR/fqnDkqjgutOURr/+k7ZKf60u914IgBl1YVTO8lp7NxbF3yH30aS7rYYzY8ewVRoxusLFTbWNuY8/iaCy5ZSFQkX8+/J/cvBQ50p2sv9XNVyj0tvlGjurDq0Hjn9J/OQna15d5Z02Overz6WWRfQv9yXHn00nogX7MV6391+v73unH8rQxPwqwoBLnXcWfZxT9sEttZUGdhd/lmfekf4lZXvbO/7cWHh9gL2x5vk9Vjkr/Y3xZWbg2jD2r3zqYdxz7T0//4QmTPNrPlR8yD0utw67niH5nWxkv7j68/pdz/+Kv3Jwcde/5nF6+7PbXsSc2zmQ3x785/fLNyXGf8P8+vY8jFVE39jce+f4tqKuk/2x5lU8PMQ6Nj2M+bqnJf+zTLd+fp+uwCRgb/3Ie+wlZdG5zxGbIx/229RHn7Z+qztsKIreG3mtXbPzsN58e85elWfSo/tjc044z/het9NryzocpR3w7FXlwYji3Vf35E/I44QrIL01ky/plU7emo6F+edQrBqT/OQLGyLHn8WifXms7vvr0vrP6Xk4IYkTtx/cT0K/daB6Otw+A71sTyDMWovH6D6J7N6I5i+2D/7zx6mvobb9nHT7vQeWPGu9Z6xc0NtXXRnRLf8QtvsdMsF/80bV3C4vd8x/waXn2KlZmB12+Vh390x+Wf7ya3zckH6t/u3i/P4eMPL3aOjYHeXV2lm6GU3E2WVz+S9tsOeAiaD6ShXEmOlX/03ti6YP3y5ucw+o/XxX/0a+Xzp2yqcl/fR1z2h245mnD95r0v3/7NXqk37D86h1ybLpU6pZdzbX//2Ma2b/2R33yspb+7hnfXJ5+2ZAcJw8vS3lmUec6vtOh5KPFi70z4iP1on5NPdIvWH3FhdJ/eu+p2eyeutT+4fwvMPAs9L9ucTP1SP9w/v+V/tXeVhO/T/UKLoCpS/pHp4Ol69lY3fhqvATjW+fihPib0s+j+efFX9RUk//Uq/azoP6vNdl8ej+KwS8R/r8Ted0AD6Yfz+P+mn7JO0U3xh/bpyT3e6l+RFPtV+Q/7bowc8v4ccNfKvXy/eBZXGBTt/SvlX9zH75OmfP1GnzwR+3Nw37T1XztKc3Tp5fqP++cNmeYm4/kZgNQvlwG1rc1dS39fFz7DBxB6vLPxfTz6GmZN6Z/OLwbzkcXOn50b33uG35Gh/PYv/xjVNlMnUv/nouv9penZPd3OhTWa/eTEQe//PS1/rPz78ObG9PPyyY+YuBfetQijnyqtzb4/Jqw5P3fEx/7qma19h9+v1eUx3+f2Ur146X5OQat76zvnlU33HovU/q7vgYYR/JvGfcP/YKvufUqvHz6+TAEVO42re+sH3iurPSRnM7naq2VKC6kaH1vVexu546/NHDcKJnbtta3n+X3EePCyME/Kup+WADvbzfK/8L7pju7dqvBJ39c16bK1v+E31+3ln/+3Oq/9PnNE6v/38ZT/ls7+H6zazyufApu+EzHjyJ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY7y/bM6VV/rgXkAAAAABJRU5ErkJggg=="}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"dstFilePath":"","errCode":0,"errShow":false,"filePath":"","msg":"成功","signServiceId":"939076208463777801"}
+
+2017-12-08 18:16:27 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:16:27 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/sign/userFileSign
+【请求参数】：{"signType":"Key","signPos":{"posType":1,"posPage":1,"posX":150,"posY":0,"key":"邯郸市蓝港建筑工程有限公司（盖章）","width":0,"qrcodeSign":false},"file":{"srcPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yyy/YYY_1803_15916.pdf","dstPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yyy/YYY_1803_15916.pdf","fileName":"","ownerPassword":""},"accountId":"5CF263F0FB614A849ACC8CB0D66AF312","sealData":"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"}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"dstFilePath":"","errCode":0,"errShow":false,"filePath":"","msg":"成功","signServiceId":"939076210464428040"}
+
+2017-12-08 18:16:27 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/init
+【请求参数】：{"projectConfig":{"projectId":"1111563517","projectSecret":"95439b0863c241c63a861b87d1e647b7","itsmApiUrl":"http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2"},"httpConfig":{"proxyIp":"","proxyPort":"","retry":3,"httpType":"HTTPS"},"signConfig":{"algorithm":"HMACSHA256","privateKey":"","esignPublicKey":""}}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"errCode":0,"errShow":false,"msg":"成功"}
+
+2017-12-08 18:16:28 > 
+【请求地址】：http://localhost:8090/tech-sdkwrapper/timevale/sign/selfFileSign
+【请求参数】：{"signType":"Key","signPos":{"posType":1,"posPage":"","posX":150,"posY":0,"key":"深圳元立方金融服务有限公司（盖章）","width":0,"qrcodeSign":false},"file":{"srcPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yyy/YYY_1803_15916.pdf","dstPdfFile":"D:\\\\wamp\\\\www\\\\dev_web/pdf/yyy/YYY_1803_15916.pdf","fileName":"","ownerPassword":""},"sealId":"0"}
+【请求头】：["X-timevale-mode: package","X-timevale-project-id:1111563517","X-timevale-signature-algorithm:hmacsha256","Content-Type:application\/json;charset=UTF-8","Expect:"]
+【返回】 : {"dstFilePath":"","errCode":0,"errShow":false,"filePath":"","msg":"成功","signServiceId":"939076212561580038"}
+

@@ -1,0 +1,37 @@
+[2018-03-28 10:53:08]SELECT * FROM `gyl_co_user_info` WHERE `mobile`='13000000123' AND `password`='96e79218965eb72c92a549dd5a330112'
+[2018-03-28 10:53:25]SELECT * FROM `gyl_co_user_info` WHERE `id`='31'
+[2018-03-28 10:53:30]SELECT * FROM `gyl_apply_info` WHERE `user_id`='31' LIMIT 0,20
+[2018-03-28 10:53:30]SELECT COUNT(0) FROM `gyl_apply_info` WHERE `user_id`='31'
+[2018-03-28 10:53:39]SELECT * FROM `gyl_co_user_info` WHERE `id`='31'
+[2018-03-28 10:53:39]INSERT INTO `gyl_apply_info` (`user_id`,`business_type`,`bl_type`,`order_id`,`financial_money`,`handing_fee`,`add_time`) VALUES ('31','','有追索权','15222056191401998336','0','0','2018-03-28 10:53:39')
+[2018-03-28 10:53:39]SELECT * FROM `gyl_apply_bill_info` WHERE `apply_id`='39' LIMIT 0,100
+[2018-03-28 10:53:39]SELECT COUNT(0) FROM `gyl_apply_bill_info` WHERE `apply_id`='39'
+[2018-03-28 10:53:58]SELECT * FROM `gyl_co_user_info` WHERE `id`='31'
+[2018-03-28 10:53:58]INSERT INTO `gyl_apply_info` (`user_id`,`business_type`,`bl_type`,`order_id`,`financial_money`,`handing_fee`,`add_time`) VALUES ('31','','有追索权','15222056386912000000','0','0','2018-03-28 10:53:58')
+[2018-03-28 10:53:59]SELECT * FROM `gyl_apply_bill_info` WHERE `apply_id`='40' LIMIT 0,100
+[2018-03-28 10:53:59]SELECT COUNT(0) FROM `gyl_apply_bill_info` WHERE `apply_id`='40'
+[2018-03-28 10:57:49]SELECT * FROM `gyl_co_user_info` WHERE `id`='31'
+[2018-03-28 10:57:49]INSERT INTO `gyl_apply_info` (`user_id`,`business_type`,`bl_type`,`order_id`,`financial_money`,`handing_fee`,`add_time`) VALUES ('31','','有追索权','15222058690682001408','0','0','2018-03-28 10:57:49')
+[2018-03-28 10:57:49]SELECT * FROM `gyl_apply_bill_info` WHERE `apply_id`='41' LIMIT 0,100
+[2018-03-28 10:57:49]SELECT COUNT(0) FROM `gyl_apply_bill_info` WHERE `apply_id`='41'
+[2018-03-28 10:58:39]SELECT * FROM `gyl_apply_info` WHERE `id`='41'
+[2018-03-28 10:58:39]SELECT * FROM `gyl_co_user_info` WHERE `id`='31'
+[2018-03-28 10:58:39]UPDATE `gyl_apply_info` SET `buyer`='AAA',`must_money`='10000',`financial_rate`='',`financial_money`='：11479.45',`business_type`='',`bl_type`='有追索权',`bl_financial_rate`='',`bl_financial_period`='900.0',`bl_financial_currency`='',`bl_fee_pay_way`='',`pay_date`='1',`handing_fee_rate`='',`handing_fee`='600.00',`update_time`='2018-03-28 10:58:39' WHERE `id`='41'
+[2018-03-28 11:00:08]SELECT * FROM `gyl_co_user_info` WHERE `id`='31'
+[2018-03-28 11:00:11]SELECT * FROM `gyl_co_user_info` WHERE `id`='31'
+[2018-03-28 11:01:50]SELECT * FROM `gyl_co_user_info` WHERE `id`='31'
+[2018-03-28 11:01:50]UPDATE `gyl_co_user_info` SET `co_name`='1111',`legal_person`='2222',`yyzz_code`='3333',`jgxy_code`='123123123',`khxk_code`='4444',`bank_name`='5555',`bank_card`='123123',`update_time`='2018-03-28 11:01:50' WHERE `id`='31'
+[2018-03-28 11:02:11]SELECT * FROM `gyl_co_user_info` WHERE `id`='31'
+[2018-03-28 11:02:52]SELECT * FROM `gyl_co_user_info` WHERE `mobile`='18005602999' AND `password`='e10adc3949ba59abbe56e057f20f883e'
+[2018-03-28 11:32:16]SELECT * FROM `gyl_co_user_info` WHERE `mobile`='15067191420'
+[2018-03-28 11:32:17]SELECT * FROM `gyl_co_user_info` WHERE `id`='23'
+[2018-03-28 11:32:17]SELECT * FROM `gyl_co_user_account` WHERE `co_user_id`='23'
+[2018-03-28 11:32:17]SELECT COUNT(0) FROM `gyl_co_user_account` WHERE `co_user_id`='23'
+[2018-03-28 11:32:17]SELECT * FROM `gyl_co_user_info` WHERE `id`='23'
+[2018-03-28 11:32:19]SELECT * FROM `gyl_co_user_info` WHERE `id`='23'
+[2018-03-28 11:32:19]SELECT * FROM `gyl_co_user_info` WHERE `id`='23'
+[2018-03-28 11:32:43]SELECT * FROM `gyl_co_user_info` WHERE `id`='23'
+[2018-03-28 11:32:44]SELECT * FROM `gyl_co_user_info` WHERE `id`='23'
+[2018-03-28 13:24:10]SELECT * FROM `gyl_co_user_info` WHERE `mobile`='15067191420'
+[2018-03-28 13:24:15]SELECT * FROM `gyl_co_user_info` WHERE `mobile`='15067191410'
+[2018-03-28 13:24:15]INSERT INTO `gyl_co_user_info` (`mobile`,`password`,`co_name`,`add_time`) VALUES ('15067191410','123456','ffff','2018-03-28 13:23:57')
