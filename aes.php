@@ -2,8 +2,8 @@
 
 
 class ase{
-    private static $privateKey='akD#K2$k=s2kh?DL';
-    private static $iv='akD#K2$k=s2kh?DL';
+    private static $privateKey='111111';
+    private static $iv='1111111';
     //加密
     public static function encrypt($data){
         $encrypted = mcrypt_encrypt(MCRYPT_RIJNDAEL_128,ase::$privateKey, $data, MCRYPT_MODE_CBC, ase::$iv);
