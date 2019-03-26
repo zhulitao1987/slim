@@ -10,15 +10,12 @@ return array(
 //==================请在这里配置您的接入信息===================
     /*项目初始化请求地址*/
     //'open_api_url' => 'http://121.40.164.61:8080/tgmonitor/rest/app!getAPIInfo2',//模拟环境
-    'open_api_url' => "http://itsm.tsign.cn/tgmonitor/rest/app!getAPIInfo2", //正式环境
 
     /*接入平台项目ID,必填；*/
     //'project_id' => '1111563517',
-    'project_id' => '1111564705',
 
     /*项目密钥，必填*/
     //'project_secret' => '95439b0863c241c63a861b87d1e647b7',
-    'project_secret' => 'ccb0c65fb8238749aa653eeffa2fcfe0',
 
     /**
      * 签名方式 ：支持RSA、 HMACSHA256
@@ -51,7 +48,6 @@ return array(
 
     /* 本地java服务 */
     //'java_server' => 'http://localhost:8090'
-    'java_server' => 'http://api.ylfcf.com:8090'
 );
 
 
